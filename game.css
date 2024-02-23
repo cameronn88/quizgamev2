@@ -1,0 +1,134 @@
+.choice-container {
+    display: flex;
+    margin-bottom: 1.1rem;
+    width: 100%;
+    font-size: 1.8rem;
+    border: 0.1rem solid #431A67;
+    background-color: white;
+    border-radius: 28px;
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: stretch; /* Vertically center */
+    line-height: 1.2;
+  }
+
+  
+  .choice-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 #431A67;
+    transform: translateY(-0.28rem);
+    transition: transform 150ms;
+  }
+  
+  .choice-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: #AC99BC;
+    color: white;
+    border-radius: 28px 0 0 28px;
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+    flex: none;
+  }
+  
+  .choice-text {
+    padding: 1.5rem;
+    width: 100%;
+  }
+  
+  .correct {
+    background-color: #42cb5b;
+  }
+  
+  .incorrect {
+    background-color: #cd4343;
+  }
+  
+  /* HUD */
+  
+  #hud {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .hud-prefix {
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 28px;
+    line-height: 1.2;
+  }
+  
+  .hud-main-text {
+    text-align: center;
+    line-height: 1.2;
+  }
+  
+  #progressBar {
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid #431A67;
+    margin-top: 1.5rem;
+    border-radius: 28px;
+  }
+  
+  #progressBarFull {
+    height: 3.4rem;
+    background-color: #431A67;
+    width: 0%;
+    border-radius: 28px;
+  }
+
+  #topic-button {
+    padding: 0.8rem 0.8rem;
+    width: 28%;
+    font-size: 2.8rem;
+    background-color: #AC99BC;
+    color: #431A67;
+    border-radius: 28px;
+    border-color: #431A67;
+    border: 2px solid #431A67; /* Example: 2px thick, solid, with a specific color */
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+    flex: none;
+    transition: transform 150ms, box-shadow 150ms; /* Add transition for smooth effect */
+  }
+
+  .topic-button.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background-color: #007bff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  #topic-button:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 #431A67;
+    transform: translateY(-0.28rem);
+  }
+
+  .topic-button.btn {
+    display: inline-flex; /* Changed to inline-flex to center text vertically */
+    padding: 10px 20px; /* Adjust padding to control button size */
+    color: white; /* Text color */
+    background-color: #007bff; /* Background color */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline from link */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Text size */
+    justify-content: center; /* Horizontally center text */
+    align-items: center; /* Vertically center text */
+    width: auto; /* Adjust width as needed, auto for content width */
+    border: 2px solid #431A67; /* Border color and thickness */
+    transition: transform 150ms, box-shadow 150ms; /* Smooth transition for hover effects */
+  }
+  
+  .topic-button.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 #431A67; /* Shadow effect on hover */
+    transform: translateY(-0.28rem); /* Slight move up on hover */
+  }

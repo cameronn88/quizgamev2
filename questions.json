@@ -1,0 +1,575 @@
+[
+    {
+      "question": "Which of the following statements is TRUE about the audit report in an annual report?",
+      "choice1": "The audit report will state whether fraudulent activity has been detected in the audit work undertaken",
+      "choice2": "The audit report will tell you that the accounts are a 'correct and accurate' representation of a companies financial position and its income and profit for the reporting period",
+      "choice3": "The audit report will highlight any non-compliance with the relevant accounting standards and give reason as to why the standards have not been followed",
+      "choice4": "The 'clean' audit report is a guarantee that the numbers in the accounts correctly represent the company's financial position and its income & expenditure and cash flows for the reporting period",
+      "answer": 3,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    {
+      "question": "Which of the following statements is TRUE about the audit report in an annual report?",
+      "choice1": "The audit report will state whether fraudulent activity has been detected in the audit work undertaken",
+      "choice2": "The audit report will tell you that the accounts are a 'correct and accurate' representation of a companies financial position and its income and profit for the reporting period",
+      "choice3": "The audit report will highlight any non-compliance with the relevant accounting standards and give reason as to why the standards have not been followed",
+      "choice4": "The 'clean' audit report is a guarantee that the numbers in the accounts correctly represent the company's financial position and its income & expenditure and cash flows for the reporting period",
+      "answer": 3,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "What section would you find PPE on the Balance Sheet?",
+      "choice1": "Assets",
+      "choice2": "Liabilities",
+      "choice3": "Equity",
+      "choice4": "Cash Flow",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "In what section would you find Bank Loans?",
+      "choice1": "Assets",
+      "choice2": "Liabilities",
+      "choice3": "Equity",
+      "choice4": "Cash Flow",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "In which section of the Balance Sheet would you find Retained Earnings?",
+      "choice1": "Assets",
+      "choice2": "Liabilities",
+      "choice3": "Equity",
+      "choice4": "Cash Flow",
+      "answer": 3,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "Which does not mean profit after interest and tax?",
+      "choice1": "Earnings",
+      "choice2": "Net Incomes",
+      "choice3": "Equity Earnings",
+      "choice4": "Operating Profit",
+      "answer": 4,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+  
+    {
+      "question": "The 'matching' or 'accruals' concept in accounting refers to the fact that…'",
+      "choice1": "Revenue is recorded when received as CASH and not before. Expenses are recorded when paid in CASH and not before",
+      "choice2": "Revenue is recorded when received as CASH, but expenses are recorded as soon as they are incurred (which may be before they are paid in cash)",
+      "choice3": "Revenue is recorded when EARNED and expenses are recorded as soon as they are INCURRED. Both of these may be before any cash is received / paid",
+      "answer": 3,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    
+    {
+      "question": "A company makes a sale in 20X4 for $100, but the customer does not pay the $100 until 20X5. How is the transaction recorded by the company in 20X4?",
+      "choice1": "Revenue $100, Receivables $100",
+      "choice2": "Nothing is recorded as revenue as no cash has been received",
+      "choice3": "Deferred Revenue $100, Receivable $100",
+      "choice4": "Revenue $100, Cash $100",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "Which of the following would not be included in the Operating section of Cash Flows for Year X in a Cash Flow Statement?",
+      "choice1": "Cash used to purchased a machine used in the business core operations",
+      "choice2": "Cash received in year X relating to a credit Sale from the previous year",
+      "choice3": "Salaries and wages",
+      "choice4": "Cash paid to suppliers in Year X relating to supplies to be used in the following year",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "A company invests in PPE costing $500. It sells the asset after 3 years, having charged $300 of depreciation (so the book value is $200 at the time of sale). You note a 'Profit on disposal of PPE' of $30 in the P&L. So how much did it sell the asset for?",
+      "choice1": "$200",
+      "choice2": "$230",
+      "choice3": "$170",
+      "choice4": "$270",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "A company notes a 'non-core' operating expense of $25m in its P&L relating to the disposal of assets. The asset had a book value of $230m at the time of sale. So what were the proceeds from the sale of the asset?",
+      "choice1": "$25m",
+      "choice2": "$205m",
+      "choice3": "$255m",
+      "choice4": "$25bn",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+  
+    {
+      "question": "When is a company allowed to 'capitalise' interest on a loan? (i.e. treat the spending as an asset rather than an expense)",
+      "choice1": "When the interest relates to a loan taken out by the company, specifically for the purchase of another asset such as inventory or PPE",
+      "choice2": "When the interest relates to a loan taken out by the company, only for the purchase of a tangible fixed asset (PPE, land and buildings etc...)",
+      "choice3": "When the interest relates to a loan taken out by the company, and the loan is used to construct an asset for resale (e.g. a construction company)",
+      "choice4": "When the interest relates to a loan taken out by the company, and the loan is used to construct an asset to be used in the company's own operations (e.g. borrowing to build a new warehouse for the company's use)",
+      "answer": 4,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "When interest is capitalised, how does it feed into the P&L and Cash Flow statement?",
+      "choice1": "The interest is included in the P&L as part of the depreciation of the asset. The interest hits the 'interest paid' in the cash flow statement as and when it is paid",
+      "choice2": "The interest is included in the P&L as 'amortised interest expense' over the life of the asset. The interest hits the cash flow as 'capex' when it is paid, rather than 'interest paid'",
+      "choice3": "The interest is included in the P&L as part of the depreciation of the asset, The interest hits the cash flow as 'capex' when it is paid, rather than 'interest paid'",
+      "choice4": "The interest is included in the P&L as 'amortised interest expense' over the life of the asset. The interest hits the 'interest paid' in the cash flow statement as and when it is paid",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+      
+    {
+      "question": "A company borrows $800m from a bank, before allowing for arrangement fees of 1%. What is the impact on the balance sheet when the cash is borrowed?",
+      "choice1": "Cash goes up $800, Liabilities (debt) go up $800",
+      "choice2": "Cash goes up $792, Liabilities go up $800, Expenses through the P&L are $8 (the 1% fee)",
+      "choice3": "Cash goes up $792, Liabilities go up $792",
+      "choice4": "Cash goes up $792, Liabilities go up $792",
+      "answer": 3,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "Which one of the following might be an indication of an asset impairment under IFRS, and what are the actions required?",
+      "choice1": "A drop-off in a business unit's sales revenue, due to technology changes. The management must implement an impairment review to determine whether the unit's assets are impaired",
+      "choice2": "A drop-off in a business unit's sales revenue, due to technology changes. The management must make an immediate impairment based on known information",
+      "choice3": "A drop-off in a business unit's sales revenue, due to technology changes. The management need only do an impairment review if the following year's profits are lower than current year (for that business unit)",
+      "choice4": "A drop-off in a business unit's sales revenue, due to technology changes. The management need only do an impairment review if the following year's P&L shows a loss",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "Which of the following are examples of Intangibles you will potentially see on a company's balance sheet?",
+      "choice1": "Future sales",
+      "choice2": "Purchased patents",
+      "choice3": "Internally generated brands",
+      "choice4": "'Pure research' costs",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "A company spends $10,000 on an item of machinery with an expected useful life of 5 years. The management estimate a residual value of $2,000. After 3 years, what is the Book Value of the machinery assuming straight line depreciation?",
+      "choice1": "$10,000",
+      "choice2": "$5,200",
+      "choice3": "$4,000",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "If a company uses an accelerated method of depreciation, which of the following statements is TRUE, all other things being equal, compared to using a straight-line methodology?",
+      "choice1": "Its operating profits will be HIGHER in the earlier years of the asset's life, and LOWER in the later years",
+      "choice2": "Its operating profits will be LOWER in the earlier years of the asset's life, and HIGHER in the later years",
+      "choice3": "Over the asset's life, core operating profits will always be the SAME regardless of the method of depreciation",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+  
+  
+    {
+      "question": "Select the false statement in the options given below",
+      "choice1": "If a company revalues its assets it will result in higher depreciation and lower operating profits (all other things being equal) in the year of revaluation",
+      "choice2": "If a company revalues its assets it does not have to charge depreciation on the new value, so operating profits are unaffected (all other things being equal)",
+      "choice3": "A company may NOT revalue assets under US standards (US GAAP)",
+      "choice4": "A 'revaluation' always means an upward revalue.  If the asset is reduced in value, other than depreciation, it is called an impairment",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "A company holds an asset on the balance sheet at a value of $2500.  The asset is sold for $2,200.  The difference of $300...",
+      "choice1": "...is treated as an impairment and taken as a 'non-core' expense to the P&L",
+      "choice2": "...is treated as a profit on disposal and treated as non-core income in the P&L",
+      "choice3": "...is treated as a loss on disposal and taken as 'non-core' expense to the P&L",
+      "answer": 3,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "A company spends $10,000 on an item of machinery with an expected useful life of 5 years and Zero residual value.  After 3 years, what is the Book Value of the machinery?",
+      "choice1": "$10,000",
+      "choice2": "$6,000",
+      "choice3": "$4,000",
+      "answer": 3,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "When calculating Return on Capital or Return on Assets. which profit is relevant?",
+      "choice1": "Gross Profit",
+      "choice2": "Operating profit (EBIT)",
+      "choice3": "Profit after interest, but before tax",
+      "choice4": "Net profit (after interest and tax)",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "True or False?: Underlying EBITDA is EBITDA before any 'non-core' items, whether those items are cash or non-cash",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "It depends on the company's policy",
+      "choice4": "It dpends on the company's policy and the nature of the 'non-core' item",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "A retail company owns a  large number of stores.  It regularly sells and buys stores.  When it sells a store, any profit or loss on disposal will be shown as 'non-core' income or expense",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "It depends on the company's policy",
+      "choice4": "It depends on the company's policy and the nature of the 'non-core' item",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "Under IFRS, any item considered 'non-core' will be shown as additional income or expenditure NET of any tax charges or credits",
+      "choice1": "Provisions have an immediate impact on profits when initially recognised, but due to the uncertainty they are typically considered 'non-core'",
+      "choice2": "Provisions are only recognised in the P&L when there is certainty around the amount involved",
+      "choice3": "Provisions will never impact cash so can be ignored for cash-flow valuation purposes",
+      "choice4": "Provisions have no impact on tax (now or in the future)",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+  
+  
+    {
+      "question": "Which is the description for Payable",
+      "choice1": "This is a definite economic outflow in the future that can be reliably measured",
+      "choice2": "This is a probable economic outflow in the future that can be reliably measured - but some degree of estimation / subjectivity on amount or timing",
+      "choice3": "This is a possible economic outflow in the future that can be reliably measured, but an even greater degree of subjectivity eg the outcome of a legal dispute",
+      "choice4" : "This is a possible economic outflow in the future that can be reliably measured, but with a lesser degree of subjectivity eg the outcome of a legal dispute",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "Which is the description for Provision",
+      "choice1": "This is a definite economic outflow in the future that can be reliably measured",
+      "choice2": "This is a probable economic outflow in the future that can be reliably measured - but some degree of estimation / subjectivity on amount or timing",
+      "choice3": "This is a possible economic outflow in the future that can be reliably measured, but an even greater degree of subjectivity eg the outcome of a legal dispute",
+      "choice4" : "This is a possible economic outflow in the future that can be reliably measured, but a lesser degree of subjectivity eg the outcome of a legal dispute",
+      "answer": 2,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "Which is the description for Contingent Liability",
+      "choice1": "This is a definite economic outflow in the future that can be reliably measured",
+      "choice2": "This is a probable economic outflow in the future that can be reliably measured - but some degree of estimation / subjectivity on amount or timing",
+      "choice3": "This is a possible economic outflow in the future that can be reliably measured, but an even greater degree of subjectivity eg the outcome of a legal dispute",
+      "choice4" : "This is a possible economic outflow in the future that can be reliably measured, but a lesser degree of subjectivity eg the outcome of a legal dispute",
+      "answer": 3,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+    
+    {
+      "question": "Which of the following statements is correct?",
+      "choice1": "Provisions have an immediate impact on profits when initially recognised, but due to the uncertainty they are typically considered 'non-core'",
+      "choice2": "Provisions are only recognised in the P&L when there is certainty around the amount involved",
+      "choice3": "Provisions will never impact cash so can be ignored for cash-flow valuation purposes",
+      "choice4": "Provisions have no impact on tax (now or in the future)",
+      "answer": 1,
+      "topic": "Financial Accounting",
+      "courseURL": "https://learn.capitalcitytraining.com/course/account-and-analysis"
+    },
+
+    {
+      "question": "Which of the following factors would you not review in finding a comparable company for valuation?",
+      "choice1": "Industry and business segment",
+      "choice2": "Growth profile",
+      "choice3": "Geography of business",
+      "choice4": "Debt to Equity mix",
+      "answer": 4,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "The value at ‘time t’ of a series of cash flows, growing constantly from then at a rate 'g', with a cost of capital ‘r’ is given by the formula",
+      "choice1": "CFt(1+g) / (r-g)",
+      "choice2": "CFt / (r-g)",
+      "choice3": "CFt(1+g) / r",
+      "choice4": "CFt / r",
+      "answer": 1,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Which of the following statements re computing a WACC is true?",
+      "choice1": "The WACC is computed using market values of equity and net debt",
+      "choice2": "The WACC is computed using book values of equity and gross debt",
+      "choice3": "The WACC is computed using market values of equity and gross debt",
+      "choice4": "The WACC is computed using book values of equity and net debt",
+      "answer": 3,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Which of the following statements on Kd is true?",
+      "choice1": "Kd is based on expected long-term rates and is computed with net of tax",
+      "choice2": "Kd is based on the current cost of borrowing and is computed with net of tax",
+      "choice3": "Kd is based on long-term rates and is computed with gross of tax",
+      "choice4": "Kd is based on current cost of borrowing and is computed with net of tax",
+      "answer": 1,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+
+
+    {
+      "question": "Kd is computed net of tax ('post-tax cost of debt'). Which of the following explains most fully why this is correct?",
+      "choice1": "When companies pay interest, it is tax-deductible and FCFF calculations do not take this into accounts, so we now adjust for this 'tax shield'",
+      "choice2": "When companies pay interest, it is tax-deductible and FCFF calculations do take this into account, so we need to be consistent",
+      "choice3": "When companies pay interest, it is tax-deductible and FCFF calculations do not take this into account, so we need to be consistent",
+      "choice4": "When companies pay interest, it is tax-deductible and FCFF calculations do take this into account, so we not adjust for this 'tax shield'",
+      "answer": 1,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Which of these models can not be used to estimate Ke (the cost of equity capital) for a business?",
+      "choice1": "Dividend Discount Model: Ke=D1/Price + g",
+      "choice2": "Capital Asset Pricing Model: Ke= Rf + ꞵ(Rm-Rf)",
+      "choice3": "A multi-factor Arbitrage Pricing Theory model",
+      "choice4": "Black-Scholes Model",
+      "answer": 4,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "What is the definition of Beta (ꞵ)",
+      "choice1": "This is a measure of the volatility of a security relative the market as a whole",
+      "choice2": "Using this simple investment strategy, stock-specific risk diminishes to all material extent leaving investors only exposed to broad market risk",
+      "choice3": "In the CAPM, a long-term yield on high quality government bonds is taken as the best proxy for this",
+      "choice4": "This is a measure of the average return premium earned by investing in a broad equity market portfolio, and is used in the CAPM",
+      "answer": 1,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "What is the definition of Diversification",
+      "choice1": "This is a measure of the volatility of a security relative the market as a whole",
+      "choice2": "Using this simple investment strategy, stock-specific risk diminishes to all material extent leaving investors only exposed to broad market risk",
+      "choice3": "In the CAPM, a long-term yield on high quality government bonds is taken as the best proxy for this",
+      "choice4": "This is a measure of the average return premium earned by investing in a broad equity market portfolio, and is used in the CAPM",
+      "answer": 2,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "What is the definition of Risk-free rate of return",
+      "choice1": "This is a measure of the volatility of a security relative the market as a whole",
+      "choice2": "Using this simple investment strategy, stock-specific risk diminishes to all material extent leaving investors only exposed to broad market risk",
+      "choice3": "In the CAPM, a long-term yield on high quality government bonds is taken as the best proxy for this",
+      "choice4": "This is a measure of the average return premium earned by investing in a broad equity market portfolio, and is used in the CAPM",
+      "answer": 3,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+
+    {
+      "question": "What is the definition of Equity Market Risk Premium (=Rm-Rf)",
+      "choice1": "This is a measure of the volatility of a security relative the market as a whole",
+      "choice2": "Using this simple investment strategy, stock-specific risk diminishes to all material extent leaving investors only exposed to broad market risk",
+      "choice3": "In the CAPM, a long-term yield on high quality government bonds is taken as the best proxy for this.",
+      "choice4": "This is a measure of the average return premium earned by investing in a broad equity market portfolio, and is used in the CAPM",
+      "answer": 4,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Which is the following is not a recognised company valuation method?",
+      "choice1": "DCF",
+      "choice2": "Comps analysis",
+      "choice3": "Comparable transactions",
+      "choice4": "Discounted earnings",
+      "answer": 4,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "What is the fundamental reason for calculating a free cash flow to the firm (FCFF)",
+      "choice1": "It allows the analyst to separate business cash flows from those relating to its capital structure (i.e. the amount of debt)",
+      "choice2": "It is a method that allows for cash income (dividends) from JVs and Associate companies",
+      "choice3": "It is the purest definition of cash for DCF as it is post-tax and post-financing costs",
+      "choice4": "It is the purest definition of cash for DCF as it is pre-tax and pre-financing costs",
+      "answer": 1,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Which of the following summarise most comprehensively the measure of FCFF?",
+      "choice1": "EBITDA - investment in working capital - tax on profit after interest - net capex",
+      "choice2": "EBITDA + investment in working capital - tax on profit before interest - net capex",
+      "choice3": "EBITDA - investment in working capital - tax on EBIT - net capex - / + other non-cash income / charges in the P&L",
+      "choice4": "EBITDA + investment in working capital - tax on EBIT - net capex -/+ other non-cash income/charges in the P&L",
+      "answer": 3,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "When computing FCFF we deduct net capex from operating cash flows, amongst other adjustments. What is net capex?",
+      "choice1": "Cash capital expenditure net of tax allowances",
+      "choice2": "Cash capital expenditure net of incremental debt taken to fund the capex",
+      "choice3": "Cash capital expenditure net of cash received from disposals of other fixed asset",
+      "choice4": "Cash capital expenditure net of depreciation and amortisation",
+      "answer": 3,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Which of the following is a disadvantage of DCF over relative value (multiples) valuation techniques?",
+      "choice1": "DCF does not rely so heavily on accounting policies that can distort numbers",
+      "choice2": "DCF is simpler as the valuer does not have to consider all aspects of the operational numbers such as capex and investment in working capital",
+      "choice3": "DCF considers the timing of the cashflows and so the time-value of money can be allowed for explicitly",
+      "choice4": "DCF makes explicit allowance for risk through assumptions on the cost of equity and cost of debt",
+      "answer": 2,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Which of the following is not a measure of relative value in a business?",
+      "choice1": "Price / Earnings",
+      "choice2": "Enterprise Value / Earnings",
+      "choice3": "Enterprise Value / EBITDA",
+      "choice4": "Price / Book Value",
+      "answer": 2,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "If EV is driven by the net operating assets of a company (which drives) EBITDA, what is not being omitted from an Enterprise Value?",
+      "choice1": "Value of Joint Ventures",
+      "choice2": "Cash",
+      "choice3": "Any Non-controlling interest in subsidiaries",
+      "choice4": "Other financial assets such as investment securities",
+      "answer": 3,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+
+    {
+      "question": "Why is Return on Capital Employed (ROCE) considered a better measure of investment performance than Return on Equity?",
+      "choice1": "It includes the impact of company leverage which affect equity returns",
+      "choice2": "It eliminates / ignores the impact of leverage which distort equity returns",
+      "choice3": "It uses Net Income as the measure of return which is ultimately the return to all investors",
+      "choice4": "It uses EBIT as the measure of return which is ultimately the return to all investors",
+      "answer": 2,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Gordon's growth model arrives at a relationship that growth is driven by reinvesting earnings (net income). Which of the following relationships measures the growth based on the model",
+      "choice1": "Growth = earnings retention ratio * Return on Equity",
+      "choice2": "Growth = earnings payout ratio * Return on Equity",
+      "choice3": "Growth = (1-dividend payout ratio) * ROCE",
+      "choice4": "Growth = (1-earnings retention ratio) * ROCE",
+      "answer": 1,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "Which of the following is not a positive signal for an equity investor in a company?",
+      "choice1": "ROE > Ke",
+      "choice2": "WACC > ROCE",
+      "choice3": "WACC < ROCE",
+      "choice4": "ROCE = WACC",
+      "answer": 2,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "A company with a cost of equity (Ke) of 10%, has a forecast a dividend of $20 in 5 year's time, which is then expected to grow at 3% in perpetuity. What is the Present Value of this stream of dividends?",
+      "choice1": "$177.41",
+      "choice2": "$182.73",
+      "choice3": "$195.15",
+      "choice4": "$200.00",
+      "answer": 2,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "A company is expected to pay dividends of $15, $18, $22 over the next 3 years. Then the dividends are expected to grow at 3%pa in perpetuity. What is the present value of the complete dividend stream, assuming a Ke of 10%",
+      "choice1": "$243.21",
+      "choice2": "$312.57",
+      "choice3": "$266.14",
+      "choice4": "$292.76",
+      "answer": 2,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "What is the present value of a single dividend of $35 being paid in 2 year's time, assuming a cost of equity of 10%",
+      "choice1": "$28.93",
+      "choice2": "$31.82",
+      "choice3": "$35.00",
+      "choice4": "$38.50",
+      "answer": 1,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+    {
+      "question": "What is the present value of a constant dividend of $15, starting in 1 year's time being paid in perpetuity? Assume a cost of equity of 8%. (1 decimal place)",
+      "choice1": "$13.90",
+      "choice2": "$200.20",
+      "choice3": "$150.40",
+      "choice4": "$187.50",
+      "answer": 4,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    },
+
+    {
+      "question": "Using the 'Gordon growth' formula: Share price = D1/ (Ke-g) What is the expression for forecast dividend yield?",
+      "choice1": "(Ke - g) / D2",
+      "choice2": "Price / Ke",
+      "choice3": "(Ke - g) / price",
+      "choice4": "Ke – g",
+      "answer": 4,
+      "topic": "Valuation",
+      "courseURL": "https://learn.capitalcitytraining.com/course/valuation"
+    }
+
+    
+]
